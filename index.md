@@ -14,5 +14,5 @@ As technology progressed and I gained experienced, I started to focus my career 
 
 For the past 7 years of my career, I have been a manager of many different types of teams.  My first teams were operational in nature and carried the responsibility of stability and reliability for their particular focus area.  I learned so much during this time around the importance of building stability in upfront and the ITSM processes related with IT.
 
-For the past 3 years I have been managing Software Engineer teams with subject matter experts in the Infrastructure and Software development space.  I have learned so much from my team and through self-study, peer support, and the Computer Science program I have learned so my about Software Delivery Lifecycle.
+For the past 3 years I have been managing Software Engineer teams with subject matter experts in the Infrastructure and Software development space.  I have learned so much from my team and through self-study, peer support, and the Computer Science program I have learned so much about the Software Delivery Lifecycle.
 
