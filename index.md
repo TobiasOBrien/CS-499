@@ -73,8 +73,8 @@ I chose this artifact as one, I am a bit of a data geek, two, I wanted experienc
 This artifact allowed me to showcase the course outcomes of CS-499-03 designing and evaluating computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices, and CS-499-04 demonstrating an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
 
 #### ePortfolio Links
-[Main ePortfolio Page](https://tobiasobrien.github.io/CS-499-ePortfolio/)<br>
-[Refinement Plan and Code Review](https://tobiasobrien.github.io/CS-499-ePortfolio/)<br>
-[Artifact One](https://tobiasobrien.github.io/CS-499-ePortfolio/)<br>
-[Artifact Two](https://tobiasobrien.github.io/CS-499-ePortfolio/)<br>
-[Artifact Three](https://tobiasobrien.github.io/CS-499-ePortfolio/)<br>
+*[Main ePortfolio Page](https://tobiasobrien.github.io/CS-499-ePortfolio/)<br>
+*[Refinement Plan and Code Review](https://tobiasobrien.github.io/CS-499-ePortfolio/)<br>
+*[Artifact One](https://tobiasobrien.github.io/CS-499-ePortfolio/)<br>
+*[Artifact Two](https://tobiasobrien.github.io/CS-499-ePortfolio/)<br>
+*[Artifact Three](https://tobiasobrien.github.io/CS-499-ePortfolio/)<br>
