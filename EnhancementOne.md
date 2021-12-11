@@ -1,2 +1,7 @@
-# Enhancement One
+# Enhancement One: Software Engineering and Design
 
+My first artifact was focused on the final project from IT-145 Foundations in Application Development where a Zoo authentication system for a Zoo was created allow users to be authenticated and presented with a login message based upon their role. The program was written in Java and utilized a MD5 hashing algorithm to validate the user’s password and various Java elements to cross match the users name and role.
+
+I choose this artifact as it would enable me to showcase my abilities to utilize software design and engineering practices through Java. I enjoyed programing in Java at the time of the initial work but had little exposure to it since and wanted to challenge myself. Through my code review and design process I settled on enhancing the artifact to include SHA-256 as a validation method along with MD5. During the code review a bug with the initial code was also uncovered that enabled a security risk where a user could enter a partial username and still be validated. This bug was also addressed in the artifact.
+
+This artifact allowed me to showcase the course outcome of CS-499-04 demonstrating an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals and CS-499-05 developing a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
