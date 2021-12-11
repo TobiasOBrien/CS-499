@@ -74,7 +74,7 @@ This artifact allowed me to showcase the course outcomes of CS-499-03 designing 
 
 #### ePortfolio Links
 * [Main ePortfolio Page](https://tobiasobrien.github.io/CS-499-ePortfolio/)<br>
-* [Refinement Plan and Code Review](https://tobiasobrien.github.io/CS-499-ePortfolio/)<br>
+* [Refinement Plan and Code Review](https://github.com/TobiasOBrien/CS-499-ePortfolio/blob/gh-pages/CodeReview.md/)<br>
 * [Artifact One](https://tobiasobrien.github.io/CS-499-ePortfolio/)<br>
 * [Artifact Two](https://tobiasobrien.github.io/CS-499-ePortfolio/)<br>
 * [Artifact Three](https://tobiasobrien.github.io/CS-499-ePortfolio/)<br>
