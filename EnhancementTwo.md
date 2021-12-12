@@ -15,6 +15,6 @@ This artifact allowed me to showcase the course outcomes of CS-499-04 demonstrat
 ## ePortfolio Links
 * [Main ePortfolio Page](https://tobiasobrien.github.io/CS-499-ePortfolio/)<br>
 * [Refinement Plan and Code Review](https://tobiasobrien.github.io/CS-499-ePortfolio/CodeReview.html)<br>
-* [Artifact One](https://tobiasobrien.github.io/CS-499-ePortfolio/EnhancementOne.html)<br>
-* [Artifact Two](https://tobiasobrien.github.io/CS-499-ePortfolio/EnhancementTwo.html)<br>
-* [Artifact Three](https://tobiasobrien.github.io/CS-499-ePortfolio/EnhancementThree.html)<br>
+* [Artifact One: Software Engineering and Design](https://tobiasobrien.github.io/CS-499-ePortfolio/EnhancementOne.html)<br>
+* [Artifact Two: Algorithms and Data Structures](https://tobiasobrien.github.io/CS-499-ePortfolio/EnhancementTwo.html)<br>
+* [Artifact Three: Databases](https://tobiasobrien.github.io/CS-499-ePortfolio/EnhancementThree.html)<br>
