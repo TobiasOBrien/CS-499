@@ -10,6 +10,8 @@ As mentioned in the previous sections, the work required for this effort involve
 
 The course objectives that were planned with this artifact were to provide a front end to the MySQL calls.  This objective was completed and the work to enable the front-end connection to MySQL and create the code queries that were necessary to fulfill the client’s requirements showed my abilities to utilize well founded and innovative techniques, skills, and tools in computing practices to deliver value.
 
+This artifact allowed me to showcase the course outcomes of CS-499-03 designing and evaluating computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices, and CS-499-04 demonstrating an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
+
 ## ePortfolio Links
 * [Main ePortfolio Page](https://tobiasobrien.github.io/CS-499-ePortfolio/)<br>
 * [Refinement Plan and Code Review](https://tobiasobrien.github.io/CS-499-ePortfolio/CodeReview.html)<br>
