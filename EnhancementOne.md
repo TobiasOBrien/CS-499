@@ -16,6 +16,9 @@ The main purpose of the addition of SHA-256 was not truly for security but to sh
 
 This artifact allowed me to showcase the course outcome of CS-499-04 demonstrating an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals and CS-499-05 developing a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
 
+## Enhancement One: Software Engineering and Design Repository
+[Link to Repository](https://tobiasobrien.github.io/Software-Engineering-and-Design)
+
 ## ePortfolio Links
 * [Main ePortfolio Page](https://tobiasobrien.github.io/CS-499-ePortfolio/)<br>
 * [Refinement Plan and Code Review](https://tobiasobrien.github.io/CS-499-ePortfolio/CodeReview.html)<br>
