@@ -13,7 +13,7 @@ The course objectives that were planned with this artifact were to provide a fro
 This artifact allowed me to showcase the course outcomes of CS-499-03 designing and evaluating computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices, and CS-499-04 demonstrating an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
 
 ### Enhancement Three: Databases
-[Link to Repository](https://github.com/TobiasOBrien/Databases)
+* [Link to Repository](https://github.com/TobiasOBrien/Databases)
 
 ### ePortfolio Links
 * [Main ePortfolio Page](https://tobiasobrien.github.io/CS-499-ePortfolio/)<br>
