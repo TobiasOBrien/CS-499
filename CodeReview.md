@@ -21,3 +21,10 @@ My third artifact enhancement was focused on the final project from DAD-220 Intr
 My enhancements will recreate the MySQL server environment and deliver a Python front end to the MySQL database that will enable the end user to search and retrieve data in a more efficient manner.
 
 ## Code Review
+
+### ePortfolio Links
+* [Main ePortfolio Page](https://tobiasobrien.github.io/CS-499-ePortfolio/)<br>
+* [Refinement Plan and Code Review](https://tobiasobrien.github.io/CS-499-ePortfolio/CodeReview.html)<br>
+* [Artifact One](https://tobiasobrien.github.io/CS-499-ePortfolio/EnhancementOne.html)<br>
+* [Artifact Two](https://tobiasobrien.github.io/CS-499-ePortfolio/EnhancementTwo.html)<br>
+* [Artifact Three](https://tobiasobrien.github.io/CS-499-ePortfolio/EnhancementThree.html)<br>
