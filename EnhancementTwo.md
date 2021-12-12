@@ -12,7 +12,10 @@ As mentioned, the program was re-written from C++ to Python and implemented a us
 
 This artifact allowed me to showcase the course outcomes of CS-499-04 demonstrating an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals, CS-499-03 designing and evaluating computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices, and CS-499-01 employing strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science.
 
-## ePortfolio Links
+### Enhancement Two: Algorithms and Data Structures
+[Link to Repository](https://github.com/TobiasOBrien/Algorithms-and-Data-Structures)
+
+### ePortfolio Links
 * [Main ePortfolio Page](https://tobiasobrien.github.io/CS-499-ePortfolio/)<br>
 * [Refinement Plan and Code Review](https://tobiasobrien.github.io/CS-499-ePortfolio/CodeReview.html)<br>
 * [Artifact One: Software Engineering and Design](https://tobiasobrien.github.io/CS-499-ePortfolio/EnhancementOne.html)<br>
