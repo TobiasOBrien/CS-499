@@ -14,7 +14,7 @@ As technology progressed and I gained experienced, I started to focus my career 
 
 For the past 7 years of my career, I have been a manager of many different types of teams.  My first teams were operational in nature and carried the responsibility of stability and reliability for their particular focus area.  I learned so much during this time around the importance of building stability in upfront and the ITSM processes related with IT.
 
-For the past 3 years I have been managing Software Engineer teams with subject matter experts in the Infrastructure and Software development space.  I have learned so much from my team and through self-study, peer support, and the Computer Science program I have learned so my about Software Delivery Lifecycle.
+For the past 3 years I have been managing Software Engineer teams with subject matter experts in the Infrastructure and Software development space.  I have learned so much from my team and through self-study, peer support, and the Computer Science program I have learned so much about Software Delivery Lifecycle.
 
 ## SNHU Computer Science Program Experience
 
@@ -24,7 +24,7 @@ I have always had a passion for scripting and developing code to make my and oth
 
 When I think about all that I have learned over the past years at Southern New Hampshire University I know that I am on my way to being able to deliver that sophistication now.  I have been able to build a solid foundation of core IT knowledge, Life Skills, and Computer Science knowledge.
 
-SNHU has exposed me to so many different new and wonderful areas to include problem solving techniques in IT-145 Foundations in Application Development, budgeting and designing solution in IT-201 Computer Platform Technologies, Linux Operating system in IT-255 Introduction to Linux Operating Systems, software systems engineering principles in IT-315 Object Oriented Analysis and Design, the importance of understanding and advocating for the end user in IT-331 Human Factors in Information Technology, and how operating systems are use in computing environments in IT-365 Operating Systems.
+SNHU has exposed me to so many different new and wonderful areas to include problem solving techniques in IT-145 Foundations in Application Development, budgeting and designing solution in IT-201 Computer Platform Technologies, Linux Operating system in IT-255 Introduction to Linux Operating Systems, software systems engineering principles in IT-315 Object Oriented Analysis and Design, the importance of understanding and advocating for the end user in IT-331 Human Factors in Information Technology, and how operating systems are used in computing environments in IT-365 Operating Systems.
 
 Along with IT courses mentioned above, advanced mathematical concepts were studied in MAT-225 Single-Variable Calculus, MAT-230 Discrete Mathematics, MAT-243 Applied Statistics for STEM, and MAT-350 Applied Linear Algebra.  These concepts allowed to gain a greater appreciation for the analysis and formulation of data and mathematical theories as they relate to Computer Science.
 
@@ -50,7 +50,7 @@ All the above learning was culminated in the final work that I completed on the 
 
 #### Artifact One
 
-My first artifact was focused on the final project from IT-145 Foundations in Application Development where a authentication system for a Zoo was created allowing users to be authenticated and presented with a login message based upon their role.  The program was written in Java and utilized a MD5 hashing algorithm to validate the user’s password and various Java elements to cross match the users name and role.
+My first artifact was focused on the final project from IT-145 Foundations in Application Development where an authentication system for a Zoo was created allowing users to be authenticated and presented with a login message based upon their role.  The program was written in Java and utilized a MD5 hashing algorithm to validate the user’s password and various Java elements to cross match the users name and role.
 
 I choose this artifact as it would enable me to showcase my abilities to utilize software design and engineering practices through Java.  I enjoyed programing in Java at the time of the initial work but had little exposure to it since and wanted to challenge myself.  Through my code review and design process I settled on enhancing the artifact to include SHA-256 as a validation method along with MD5.  During the code review a bug with the initial code was also uncovered that enabled a security risk where a user could enter a partial username and still be validated.  This bug was also addressed in the artifact. 
 
