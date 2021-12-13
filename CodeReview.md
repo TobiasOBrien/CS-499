@@ -22,6 +22,8 @@ My enhancements will recreate the MySQL server environment and deliver a Python 
 
 ## Code Review
 
+* [Code Review](https://youtu.be/zEU4rDDScIs)<br>
+
 ### ePortfolio Links
 * [Main ePortfolio Page](https://tobiasobrien.github.io/CS-499-ePortfolio/)<br>
 * [Refinement Plan and Code Review](https://tobiasobrien.github.io/CS-499-ePortfolio/CodeReview.html)<br>
