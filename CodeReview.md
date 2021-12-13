@@ -8,7 +8,7 @@ My first artifact enhancement was focused on the final project from IT-145 Found
 
 My enhancement will add an additional option to allow the user to select either the existing MD5 hashing algorithm or a new, more secure, SHA-256 option.  During the code review it was also noticed that there was a bug in the code that allowed for usernames that weren’t a one for one match, this bug will also be addressed.
 
-###  Enhancement Two:  Algorithms and Data Structures
+### Enhancement Two:  Algorithms and Data Structures
 
 My second artifact enhancement was focused on the final project from CS-260 Data Structure and Algorithms where a bid search system was created that allowed users to load a bid file from a comma separated file and perform various searches to display data. The program was written in C++ and implemented techniques such as displaying a user menu, loading and parsing a CSV file, displaying results, and searching for bids.
 
